@@ -4,9 +4,6 @@
 
 UAIR: A Dedicated Benchmark for UAV Single Object Tracking under Real-World Visual Interference
 
-(C:\Users\10731\AppData\Roaming\Typora\typora-user-images\1775096443531.png)
-
-
 ## Dataset
 
 UAIRTrack, a dedicated benchmark for UAV single object tracking under real-world visual interference., has been released.
