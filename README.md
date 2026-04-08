@@ -4,6 +4,7 @@
 
 UAIR: A Dedicated Benchmark for UAV Single Object Tracking under Real-World Visual Interference
 ![Image Description](https://github.com/lunette2233/UAIR-Benchmark/blob/master/Sample.png?raw=true)
+The Supplementary Materials for UAIR can download at https://drive.google.com/file/d/1NAIon6dN44LO-hOgHVMM7txWxqal0ocu/view?usp=sharing
 ## Dataset
 
 UAIR, a dedicated benchmark for UAV single object tracking under real-world visual interference., has been released.
