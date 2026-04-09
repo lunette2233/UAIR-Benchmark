@@ -3,7 +3,9 @@
 ## Paper
 
 UAIR: A Dedicated Benchmark for UAV Single Object Tracking under Real-World Visual Interference
+
 ![Image Description](https://github.com/lunette2233/UAIR-Benchmark/blob/master/Sample.png?raw=true)
+
 The Supplementary Materials for UAIR can download at https://drive.google.com/file/d/1NAIon6dN44LO-hOgHVMM7txWxqal0ocu/view?usp=sharing
 ## Dataset
 
@@ -11,10 +13,12 @@ UAIR, a dedicated benchmark for UAV single object tracking under real-world visu
 
 #### Description:
 
-We introduce UAIR, a dedicated benchmark for UAV single object tracking under real-world visual interference. UAIR features three key characteristics. First, it explicitly centers on visual interference diversity, covering 10 representative interference categories that reflect challenging physical-world conditions in UAV flight. Second, it emphasizes representative UAV target characteristics, including small object scales, drastic scale variation, and complex motion patterns induced by aerial viewpoints and
-flight dynamics. Third, it provides large-scale and diverse annotations, containing 400 high-quality sequences, approximately 190K manually annotated frames, thus offering broad support for
+We introduce UAIR, a dedicated benchmark for UAV single object tracking under real-world visual interference. UAIR features three key characteristics. First, it explicitly centers on visual interference diversity, covering 10 representative interference categories(Adverse Weather, Camera Jitter,Cloud Occlusion, Terrain Clutter, Deformation, Dense Smoke, Distractors, Dynamic Background, Illumination Variation, and Occlusion.) that reflect challenging physical-world conditions in UAV flight. Second, it emphasizes representative UAV target characteristics, including small object scales, drastic scale variation, and complex motion patterns induced by aerial viewpoints and flight dynamics. Third, it provides large-scale and diverse annotations, containing 400 high-quality sequences, approximately 190K manually annotated frames, thus offering broad support for
 robust tracker training and evaluation.
 
+![Inference Description](https://github.com/lunette2233/UAIR-Benchmark/blob/main/img/Interference.png?raw=true)
+
+![Model](https://github.com/lunette2233/UAIR-Benchmark/blob/main/img/Models.png?raw=true)
 
 #### Download:
 
